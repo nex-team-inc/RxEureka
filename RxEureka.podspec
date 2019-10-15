@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'RxEureka'
-  s.version          = '0.2.2'
+  s.version          = '0.2.3'
   s.summary          = 'An Rx wrapper of Eureka\'s rows.'
 
 
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.source_files = 'RxEureka/Classes/**/*'
 
 
-  s.dependency 'Eureka', '~> 4.0'
-  s.dependency 'RxCocoa', '~> 4.0'
+  s.dependency 'Eureka', '5.0.0'
+  s.dependency 'RxCocoa', '5.0.0'
 
 end

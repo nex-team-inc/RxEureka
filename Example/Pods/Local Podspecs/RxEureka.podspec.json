@@ -1,6 +1,6 @@
 {
   "name": "RxEureka",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "An Rx wrapper of Eureka's rows.",
   "description": "This is an Rx extension that provides an easy way\n  to bind Eureka's rows values",
   "homepage": "https://github.com/antoninbiret/RxEureka",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/antoninbiret/RxEureka.git",
-    "tag": "0.2.0"
+    "tag": "0.2.3"
   },
   "social_media_url": "https://twitter.com/Antonin_brt",
   "platforms": {
@@ -22,10 +22,10 @@
   "source_files": "RxEureka/Classes/**/*",
   "dependencies": {
     "Eureka": [
-      "~> 4.0"
+      "5.0.0"
     ],
     "RxCocoa": [
-      "~> 4.0"
+      "5.0.0"
     ]
   }
 }
